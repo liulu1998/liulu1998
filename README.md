@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi Liu Lu 👋
+
+<a href="https://github.com/liulu1998">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=liulu1998&show_icons=true" alt="Anurag's github stats" />
+</a>
+
+<br/>
+
+<a href="https://github.com/chizhu">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=liulu1998&layout=compact" />
+</a>
+
 
 <!--
 **liulu1998/liulu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
