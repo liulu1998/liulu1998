@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/chizhu">
+<a href="https://github.com/liulu1998">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=liulu1998&layout=compact" />
 </a>
