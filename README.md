@@ -1,6 +1,10 @@
 ### Hi Liu Lu 👋
 
-我叫刘 陆，来自哈哈尔滨。
+我叫刘 陆，就读于 哈尔滨工程大学。
+
+可以通过以下方式联系我：  
+
+- 邮件地址  <liulu_heu@foxmail.com> 
 
 <!--
 **liulu1998/liulu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
