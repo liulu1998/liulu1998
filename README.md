@@ -1,7 +1,5 @@
 ### Hi LIU Lu 👋
 
-- 🔭 I’m currently working on my graduation project "KG enhanced recommendation"
-
 - 📫 Reach me at:  liulu_heu@foxmail.com
 
 <!--
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 🔭 I’m currently working on my graduation project "KG enhanced recommendation"
 -->
