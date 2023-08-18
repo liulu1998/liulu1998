@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 🔭 I’m currently working on nothing
 -->
+
+![Liu Lu's GitHub stats](https://github-readme-stats.vercel.app/api?username=liulu1998&show_icons=true&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/liulu1998/liulu1998/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/liulu1998/liulu1998/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+</picture>
