@@ -2,7 +2,7 @@
 
 I am Liu Lu（刘陆）.
 
-- 📫 Reach me at:  liulu_heu@foxmail.com
+- 📫 Reach me at:  liulu1998qd@outlook.com
 
 <!--
 Here are some ideas to get you started:
